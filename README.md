@@ -1,16 +1,7 @@
-### Hi there 👋
+- Hi, I am Ahmet Hakan Kızılçubuk.
+- I am interested on artificial intelligence and data science.
+- I am currently studying at Bilkent University, Faculty of Computer Science.,
+- How to reach me: hakan.kizilcubuk@gmail.com
 
-<!--
-**hakan-kizilcubuk/hakan-kizilcubuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently studying on Bilkent University, Faculty of Computer Science.
-- 🌱 I’m currently learning Java.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
